@@ -1,6 +1,6 @@
 # Raspberry cream and berry triffles #
 
-![Raspberry cream and berry triffles](../antipasti/images/raspberry_cream_and_berry_triffles.png)
+![Raspberry cream and berry triffles](../desert/images/raspberry_cream_and_berry_triffles.png)
 
 * 30 minutes
 
