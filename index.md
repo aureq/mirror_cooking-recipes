@@ -6,3 +6,5 @@
 # [Desert](desert/index.md) #
 # [Sauce](sauce/index.md) #
 # [Pastry](pastry/index.md) #
+# [Pastry](pastry/index.md) #
+# [Ingredients](ingredients/index.md)
