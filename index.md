@@ -1,4 +1,4 @@
-# [Antipasto](antipasto/index.md) #
+# [Antipasti](antipasti/index.md) #
 # [Entree](entree/index.md) #
 # [Soup](soup/index.md) #
 # [Main](main/index.md) #
